@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
     <img
-      src="https://img.shields.io/badge/chiikawa143@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dayeon99j@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
 
 <br>
