@@ -4,7 +4,7 @@
 
 <h3 align="center"> 🎓 Education 🎓</h3>
     <h5 align="center">Sookmyung Women's University (2018~2024)</h5><h6 align="center">Dept. of IT</h6>
-<br/>
+<br>
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -78,9 +78,11 @@
 />
 </a>
 </div>
+<br>
 <div align= "center"> 
-    <h2> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=mumalaf&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumalaf&layout=compact&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"
-           /> </div> 
+    <h2> 🏅 Stats </h2>
+    <div align= "center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mumalaf&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumalaf&layout=compact&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"/> </div> 
     </div>
     
