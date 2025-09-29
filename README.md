@@ -80,9 +80,14 @@
 </div>
 <br>
 <div align= "center"> 
-    <h2> 🏅 Stats </h2>
+    <h2> 🏅 Stats 🏅</h2>
     <div align= "center">
         <img src="https://github-readme-stats.vercel.app/api?username=mumalaf&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumalaf&layout=compact&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"/> </div> 
     </div>
-    
+<br>
+<div align="center">
+    <h2> 💻 Programmers 💻</h2>
+  <img src="https://raw.githubusercontent.com/mumalaf/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge"/>
+</div>
+<br>
