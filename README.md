@@ -3,7 +3,7 @@
     </div>
 
 <h3 align="center"> 🎓 Education 🎓</h3>
-    <h5 align="center">Sookmyung Women's University (2018~2024)</h5><h6 align="center">Dept. of IT</h6>
+    <h4 align="center">Sookmyung Women's University (2018~2024)</h4><h5 align="center">Dept. of IT</h5>
 <br>
 
 
