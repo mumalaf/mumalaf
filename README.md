@@ -25,8 +25,6 @@
 
 <br>
 
-<br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -68,17 +66,6 @@
 </div>
 
 <br>
-
-<div align="center">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mumalaf&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/mumalaf"
-  width="600"
-  height="300"
-/>
-</a>
-</div>
-<br>
 <div align= "center"> 
     <h2> 🏅 Stats 🏅</h2>
     <div align= "center">
@@ -91,3 +78,20 @@
   <img src="https://raw.githubusercontent.com/mumalaf/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge"/>
 </div>
 <br>
+<h3 align="center">🐹 Git Pet 🐹</h3>
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mumalaf&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mumalaf"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+<br>
+<h3 align="center">🌱 Git Garden 🌱</h3>
+<div align="center">
+  <a href="https://github.com/marshallku/gitgarden">
+    <img src="https://gitgarden.marshallku.dev/?user_name=mumalaf" alt="GitGarden"/>
+  </a>
+</div>
