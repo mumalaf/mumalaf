@@ -2,7 +2,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!%20I'm%20Dayeon%20👾&animation=&fontColor=000000&fontSize=40" />
     </div>
 
-<!--내용 부분-->
+<h3 align="center"> 🎓 Education 🎓</h3>
+    <h5 align="center">Sookmyung Women's University (2018~2024)</h5><h6 align="center">Dept. of IT</h6>
+<br/>
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
@@ -75,7 +79,7 @@
 </a>
 </div>
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=mumalaf&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"
+    <h2> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=mumalaf&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumalaf&layout=compact&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"
            /> </div> 
     </div>
