@@ -6,6 +6,9 @@
     <h4>Sookmyung Women's University (2018~2024)</h4><h5>Dept. of IT</h5>
 <br>
 
+<h3><a href="https://drive.google.com/file/d/1kptUlbAxqGgwfbBVATXCKadIafHzWYiR/view?usp=sharing"/> 🌐 Portfolio 🌐</h3>
+
+<br>
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
