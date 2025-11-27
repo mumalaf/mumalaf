@@ -72,7 +72,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumalaf&layout=compact&bg_color=60,b8d7ff,ffffff&title_color=0d7be3&text_color=0d7be3"/> </div> 
     </div>
 <br>
-<div>
+<!-- <div>
     <h2> 💻 Programmers 💻</h2>
   <img src="https://raw.githubusercontent.com/mumalaf/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge"/>
 </div>
@@ -87,7 +87,7 @@
 />
 </a>
 </div>
-<br>
+<br> -->
 <h3>🌱 Git Garden 🌱</h3>
 <div>
   <a href="https://github.com/marshallku/gitgarden">
