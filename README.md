@@ -76,7 +76,7 @@
     <h2> 💻 Programmers 💻</h2>
   <img src="https://raw.githubusercontent.com/mumalaf/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge"/>
 </div>
-<br>
+<br>-->
 <h3>🐹 Git Pet 🐹</h3>
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mumalaf&utm_content=farm">
@@ -87,7 +87,7 @@
 />
 </a>
 </div>
-<br> -->
+<br>
 <h3>🌱 Git Garden 🌱</h3>
 <div>
   <a href="https://github.com/marshallku/gitgarden">
